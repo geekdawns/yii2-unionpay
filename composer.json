@@ -1,0 +1,21 @@
+{
+    "name": "geekdawns/yii2-unionpay",
+    "description": "Unionpay for Yii 2.0",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","unionpay"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "geekdawns",
+            "email": "geekdawns@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "geekdawns\\unionpay\\": ""
+        }
+    }
+}
